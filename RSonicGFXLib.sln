@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSonicGFXLibv2", "RSonicGFXLib\RSonicGFXLibv2.csproj", "{9B34876E-7F0F-476E-9104-921FDAB5C879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSonicGFXLibv1", "RSonicGFXLib (Dreamcast)\RSonicGFXLibv1.csproj", "{B8903C4B-2F0B-4794-877D-49EFB9416685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B34876E-7F0F-476E-9104-921FDAB5C879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B34876E-7F0F-476E-9104-921FDAB5C879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B34876E-7F0F-476E-9104-921FDAB5C879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B34876E-7F0F-476E-9104-921FDAB5C879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8903C4B-2F0B-4794-877D-49EFB9416685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8903C4B-2F0B-4794-877D-49EFB9416685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8903C4B-2F0B-4794-877D-49EFB9416685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8903C4B-2F0B-4794-877D-49EFB9416685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A399A350-FFB0-429F-BDC7-B69E7ACC0A99}
+	EndGlobalSection
+EndGlobal
